@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Reserach Projects
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Measuring Emission Lines from Photometry](/sample_page)
+<img src="images/Paper3_Preview.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
