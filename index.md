@@ -8,11 +8,11 @@
 <img src="images/Paper3_Preview.png?raw=true"/>
 
 ---
-[Stacking Galaxies by Spectral Type](/pdf/sample_presentation.pdf)
+[Stacking Galaxies by Spectral Type](/paper2)
 <img src="images/Paper2_Preview.png?raw=true"/>
 
 ---
-[An Updated Dust-to-Star Geometry](http://example.com/)
+[An Updated Dust-to-Star Geometry](/paper1)
 <img src="images/Paper1_Preview.png?raw=true"/>
 
 ---
