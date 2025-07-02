@@ -10,7 +10,9 @@ About 700 galaxies in the UNCOVER survey have spectroscopic observations, out of
 
 <img src="images/paper3/Sample_Selection.png?raw=true"/>
 
-### 2. Assess assumptions on which statistical inference will be based
+### 2. Compare the "photometric" and "spectroscopic" measurements
+
+I then perform the mathematical analysis required to measure both the typical "spectroscopic" emission lines directly, as well as my new technique of "photometric" emission lines measurements. I then compare the two measurements below, and statistically analyze the quality of the comparison.
 
 <img src="images/paper3/sed_vs_emfit_mass.pdf?raw=true"/>
 
