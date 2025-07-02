@@ -8,12 +8,12 @@
 <img src="images/Paper3_Preview.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Stacking Galaxies by Spectral Type](/pdf/sample_presentation.pdf)
+<img src="images/Paper2_Preview.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[An Updated Dust-to-Star Geometry](http://example.com/)
+<img src="images/Paper1_Preview.png?raw=true"/>
 
 ---
 
