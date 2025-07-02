@@ -14,14 +14,14 @@ About 700 galaxies in the UNCOVER survey have spectroscopic observations, out of
 
 I then perform the mathematical analysis required to measure both the typical "spectroscopic" emission lines directly, as well as my new technique of "photometric" emission lines measurements. I then compare the two measurements below, and statistically analyze the quality of the comparison.
 
-<img src="images/paper3/Flux_Compare?raw=true"/>
+<img src="images/paper3/Flux_Compare.png?raw=true"/>
 
 
 ### 3. Science Results from Emission Line Measurements
 
 One additional upside of measureing emission lines directly from images ("photometric") is that we can make 2D maps of the strongest emission. I generate maps of the measured emission lines, and consider what these imply about the galaxies. This particular emission line follows star formation, so we can see where galaxies were forming stars 10 billions years in the past. 
 
-<img src="images/paper3/Ha_Maps?raw=true"/>
+<img src="images/paper3/Ha_Maps.png?raw=true"/>
 
 A second emission line can be used to determine the locations of dust in these galaxies, which has been the focus of my thesis. From all of this work, I conclude that these galaxies have clumpy dust and star formation - these galaxies are messy, with no uniform pattern to dust distribution and star formation. These findings have implications for how galaxies grow and evolve into what we see in the universe today, including our own Milky Way Galaxy.  
 
