@@ -12,20 +12,20 @@ Individual galaxies do not have strong enough signal to make a reliable dust mea
 
 We can see that the algorithm did a reasonable job - the selected galaxies (black dots) occupy similar regions of the parameter spaces shown in the rightmost three plots.
 
-### 2. Assessing Model Fits
+### 2. Fitting a Model
 
 Text
 
 <img src="images/paper2/Model_Fits.png?raw=true"/>
 
 
-### 3. Header
+### 3. Assessing Model Fits
 
 Text
 
 <img src="images/paper2/Model_Assessed.png?raw=true"/>
 
-### 4. Header
+### 4. Resulting Properties
 
 <img src="images/paper2/Sample_Props.png?raw=true"/>
 
