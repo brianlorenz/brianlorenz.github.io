@@ -1,9 +1,8 @@
 title: Brian Lorenz # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Astrophysics PhD
-  Data Scientist
-  <br><br>
+  Astrophysics PhD and Data Scientist
+  <br>
   <a href="http://www.linkedin.com/in/brianclorenz">View My LinkedIn Profile</a>
 
 remote_theme: pages-themes/minimal@v0.2.0

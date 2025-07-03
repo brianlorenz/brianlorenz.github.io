@@ -2,7 +2,7 @@
 
 [Link to published paper](https://iopscience.iop.org/article/10.3847/1538-4357/accdd1/pdf)
 
-**Project description:** One of the main goals of my work is to understand how dust is distriubted in distant galaxies. I hypothesized that we could learn about dust by looking at its effects in edge-on galaxies compared to face-on galaxies; we would expect edge-on galaxies to appear more dusty. Here, I designed an experiment to test that theory.
+**Project Description:** One of the main goals of my work is to understand how dust is distriubted in distant galaxies. I hypothesized that we could learn about dust by looking at its effects in edge-on galaxies compared to face-on galaxies; we would expect edge-on galaxies to appear more dusty. Here, I designed an experiment to test that theory.
 
 ### 1. Selecting the Galaxies
 
