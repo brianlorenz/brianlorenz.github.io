@@ -8,20 +8,26 @@
 
 Text
 
-<img src="images/paper2/Sample_Selection.png?raw=true"/>
+<img src="images/paper1/Sample_Select.png?raw=true"/>
 
 ### 2. Header
 
 Text
 
-<img src="images/paper2/Flux_Compare.png?raw=true"/>
-
+<img src="images/paper1/Stacked_Spectra.png?raw=true"/>
 
 ### 3. Header
 
 Text
 
-<img src="images/paper2/Ha_Maps.png?raw=true"/>
+<img src="images/paper1/Main_Plot.png?raw=true"/>
+
+
+### 4. Header
+
+Text
+
+<img src="images/paper1/Dust_Model.png?raw=true"/>
 
 Text
 
