@@ -1,6 +1,6 @@
 ## Stacking and Analyzing MOSDEF Galaxies by Spectral Types: Implications for Dust Geometry and Galaxy Evolution
 
-[**Link to published paper**](https://iopscience.iop.org/article/10.3847/1538-4357/ad7de8/pdf)
+[Link to published paper](https://iopscience.iop.org/article/10.3847/1538-4357/ad7de8/pdf)
 
 **Project description:** Text
 

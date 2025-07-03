@@ -1,6 +1,6 @@
 ## Measuring Emission Lines with JWST-MegaScience Medium-Bands: A New Window into Dust and Star Formation at Cosmic Noon
 
-[**Link to published paper**](https://arxiv.org/pdf/2505.10632)
+[Link to published paper](https://arxiv.org/pdf/2505.10632)
 
 **Project description:** A wide variety of galaxy properties can be determined by measuring the strength of emission lines. Typically, astronomers require spectroscopic observations to measure these lines, which need specialized instruments and long observation time. However, I have implemented a novel technique to measure emission lines directly from images, which takes far less observation time. I verify the accuracy of this technique by comparing the new "photometric" measurements to the standard "spectroscopic" measurements.
 
