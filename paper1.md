@@ -1,6 +1,6 @@
 ## An Updated Dust-to-Star Geometry: Dust Attenuation Does Not Depend on Inclination in 1.3 ≤z ≤2.6 Star-forming Galaxies from MOSDEF
 
-[**Link to published paper**](https://iopscience.iop.org/article/10.3847/1538-4357/accdd1/pdf)
+[<span style="color:blue">**Link to published paper**</span>](https://iopscience.iop.org/article/10.3847/1538-4357/accdd1/pdf)
 
 **Project description:** Text
 
