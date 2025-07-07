@@ -4,15 +4,15 @@
 
 ### Reserach Projects
 
-[Measuring Emission Lines from Photometry](/paper3)
+[Large Datasets - Measuring Emission Lines from Photometry](/paper3)
 <img src="images/Paper3_Preview.png?raw=true"/>
 
 ---
-[Stacking Galaxies by Spectral Type](/paper2)
+[Bayesian Modeling - Stacking Galaxies by Spectral Type](/paper2)
 <img src="images/Paper2_Preview.png?raw=true"/>
 
 ---
-[An Updated Dust-to-Star Geometry](/paper1)
+[Data Enhancement - An Updated Dust-to-Star Geometry](/paper1)
 <img src="images/Paper1_Preview.png?raw=true"/>
 
 ---
