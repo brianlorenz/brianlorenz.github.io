@@ -25,7 +25,7 @@ One additional upside of measureing emission lines directly from images ("photom
 
 A second emission line can be used to determine the locations of dust in these galaxies, which has been the focus of my thesis. From all of this work, I conclude that these galaxies have clumpy dust and star formation - these galaxies are messy, with no uniform pattern to dust distribution and star formation. These findings have implications for how galaxies grow and evolve into what we see in the universe today, including our own Milky Way Galaxy.  
 
-### 4. Broadening otheur View to 70,000 Galaxies
+### 4. Broadening our View to 70,000 Galaxies
 
 After verifying the power of this technique with the smaller sample, I now broaden the project to include galaxies that don't have spectroscopic observations. I considered a number of factors in selecting this sample: galaxy distances need to be known to a high enough degree of accuracy such that their emission lines will be detectable. Furthermore, the lines need to be strong enough to have a reliable measurement. The results of this careful selection are shown below. 
 
