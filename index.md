@@ -2,7 +2,7 @@
 
 ---
 
-### Reserach Projects
+### Research Projects
 
 [Large Datasets - Measuring Emission Lines from Photometry](/paper3)
 <img src="images/Paper3_Preview.png?raw=true"/>
