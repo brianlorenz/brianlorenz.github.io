@@ -4,6 +4,10 @@
 
 ### Research Projects
 
+[Large Datasets - Dust Geometry in MegaScience](/paper4)
+<img src="images/Paper4_Preview.png?raw=true"/>
+
+---
 [Large Datasets - Measuring Emission Lines from Photometry](/paper3)
 <img src="images/Paper3_Preview.png?raw=true"/>
 
@@ -14,6 +18,7 @@
 ---
 [Data Enhancement - An Updated Dust-to-Star Geometry](/paper1)
 <img src="images/Paper1_Preview.png?raw=true"/>
+
 
 ---
 
