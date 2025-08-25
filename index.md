@@ -4,7 +4,7 @@
 
 ### Research Projects
 
-[Large Datasets - Dust Geometry in MegaScience](/paper4)
+[Data Analysis - Dust Geometry in MegaScience](/paper4)
 <img src="images/Paper4_Preview.png?raw=true"/>
 
 ---
